@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Konzantin
+- 👀 I’m a DEV since 2020
+- 🌱 HTML CSS and JAVA
+- 📫 nik.roemer@gmx.de
